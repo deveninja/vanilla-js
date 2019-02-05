@@ -1,0 +1,22 @@
+{
+   "details":[
+      {
+         "id" : 1,
+         "name" : "revenue",                  
+         "tablet" : "40.000.000",
+         "smartphone": "20.000"
+      },
+      {
+         "id" : 2,
+         "name" : "impressions",         
+         "tablet" : "212.000.000",
+         "smartphone": "200.000"   
+      },
+      {
+         "id" : 3,
+         "name" : "visits",
+         "tablet" : "89.000.000",
+         "smartphone": "1.120.000"   
+      }
+   ]
+}

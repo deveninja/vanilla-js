@@ -1,0 +1,27 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+#dynamic-js {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-gap: 1rem;
+   width: 600px;
+   margin: 0 auto;
+   border: 1px solid blue;
+}
+
+.donut {
+   width: 100%;
+   border: 1px solid red;
+}
+
+.donut h1 {
+   color: pink;
+   text-align: center;
+}
+.donut span {
+   color: blue;
+}
