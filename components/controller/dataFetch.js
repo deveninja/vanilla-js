@@ -5,7 +5,7 @@ const dataFetch = {
       .then(data => {      
          data.details.forEach( detail => {
             if(detail.name == 'revenue') {
-               document.getElementById('dynamic-js').innerHTML += renderDonut(detail.name, detail.tablet, detail.smartphone)
+               document.getElementById('dynamic-js').appendChild(form.input)
             }
          })
       })
